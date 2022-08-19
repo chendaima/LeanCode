@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VirturlClass": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
